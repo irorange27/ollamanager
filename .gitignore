@@ -1,0 +1,18 @@
+# Binaries
+ollamanager
+
+# macOS
+.DS_Store
+
+# Go specific
+*.exe
+*.test
+*.prof
+*.out
+/vendor/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
