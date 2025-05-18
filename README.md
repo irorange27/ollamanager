@@ -72,6 +72,10 @@ ollamanager server use workstation
 ollamanager run mistral
 ```
 
+## Disclaimer
+
+This software is provided for legitimate use only. Users are responsible for ensuring their usage complies with all applicable laws and regulations. The authors do not condone or support illegal activities of any kind. Use this tool responsibly and ethically.
+
 ## License
 
 MIT
