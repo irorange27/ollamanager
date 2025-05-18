@@ -1,6 +1,9 @@
 # Ollamanager
 
-A wrapper for ollama that allows controlling ollama instances available on your internal network.(Built by Github Copilot and Claude 3.7 Sinnet Thinking)
+> [!NOTE]
+This CLI tool is built by Github Copilot and Claude 3.7 Sinnet Thinking
+
+A wrapper for ollama that allows controlling ollama instances available on your internal network.
 
 ## Description
 
@@ -11,8 +14,7 @@ Ollamanager makes it easy to manage multiple ollama servers and switch between t
 ### Using Go Install
 
 ```bash
-# Install directly from GitHub
-go install github.com/irorange27/ollamanager@latest
+go install github.com/irorange27/ollamanager/cmd/ollamanager@latest
 ```
 
 ### From Source
