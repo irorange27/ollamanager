@@ -14,7 +14,7 @@ Ollamanager makes it easy to manage multiple ollama servers and switch between t
 ### Using Go Install
 
 ```bash
-go install github.com/irorange27/ollamanager/cmd/ollamanager@latest
+go install github.com/irorange27/ollamanager@latest
 ```
 
 ### From Source
